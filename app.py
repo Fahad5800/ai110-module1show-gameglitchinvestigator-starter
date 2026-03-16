@@ -29,6 +29,7 @@ low, high = get_range_for_difficulty(difficulty)
 st.sidebar.caption(f"Range: {low} to {high}")
 st.sidebar.caption(f"Attempts allowed: {attempt_limit}")
 
+# FIX: Cleared the random guess number generation problem each time submit is clicked
 if "secret" not in st.session_state:
     st.session_state.secret = random.randint(low, high)
 

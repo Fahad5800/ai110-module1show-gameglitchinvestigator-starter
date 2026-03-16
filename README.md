@@ -31,7 +31,17 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+### Starting Interface
+![Starting Interface](images/Starting%20Interface.png)
+
+### Making Attempts
+![Attempts](images/Attemps.png)
+
+### Hints Working
+![Hints](images/Hints.png)
+
+### Final Score and Win
+![Final Score and Win](images/Final%20Score%20and%20Win.png)
 
 ## 🚀 Stretch Features
 
